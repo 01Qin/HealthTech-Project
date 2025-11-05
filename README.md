@@ -9,19 +9,9 @@ School of ICT</br>
 Metropolia University of Applied Sciences</br>
 14.3.2025 </br>
 
-Version history </br>
- 
-Ver 	Description 	Date 	Author(s) </br>
-1.0	Wrote introduction and getting started parts for user manual 	13.3.2025	Su Wai Phyoe</br>
 
-1.1	Wrote using the device part for user manual 	13.3.2025	Wang Qin</br>
-2.0	Wrote troubleshooting and additional information for user manual	14.3.2025	Su Wai Phyoe, Wang Qin</br>
 			
-			
-  	  	  	  
-  	  	  	  
-  	  	  	  
-  	  	  	  
+  	  	  
  
 Contents
 1	Introduction	1</br>
@@ -162,4 +152,5 @@ Wireless (802.11n), single-band (2.4 GHz), Bluetooth 5.2. For detailed technical
 
 
 ---
+
 
