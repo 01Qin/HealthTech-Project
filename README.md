@@ -1,6 +1,5 @@
 <img width="258" alt="image" src="https://github.com/user-attachments/assets/f155da63-79d0-42f8-b600-c99c956a502c" />
 
-Group 1: Su Wai Phyoe, Wang Qin, Lu Liu </br>
 <Heartie></br>
 User Manual
 
@@ -163,3 +162,4 @@ Wireless (802.11n), single-band (2.4 GHz), Bluetooth 5.2. For detailed technical
 
 
 ---
+
