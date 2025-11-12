@@ -73,7 +73,7 @@ This project analyzes photoplethysmogram (PPG) data to compute Heart Rate (HR) a
 ```
 HeartRate-HRV-Analysis/
 ├── data/
-│   ├── bidmc_03_Signals.csv
+│   ├── bidmc_09_Signals.csv
 │   └── README.md
 ├── src/
 │   └── hrv_analysis.py
@@ -81,8 +81,7 @@ HeartRate-HRV-Analysis/
 │   └── hrv_analysis_demo.ipynb
 ├── results/
 │   ├── ppg_signal_plot.png
-│   ├── detected_peaks.png
-│   └── metrics_summary.csv
+│   └── detected_peaks.png   
 ├── requirements.txt
 ├── README.md
 └── LICENSE
@@ -102,3 +101,4 @@ scipy
 ---
 ## License
 MIT License – see LICENSE for details.
+
