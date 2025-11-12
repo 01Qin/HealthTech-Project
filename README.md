@@ -81,6 +81,7 @@ HeartRate-HRV-Analysis/
 │   └── hrv_analysis_demo.ipynb
 ├── results/
 │   ├── ppg_signal_plot.png
+│   ├── metrics_summary.csv
 │   └── detected_peaks.png   
 ├── requirements.txt
 ├── README.md
@@ -101,4 +102,5 @@ scipy
 ---
 ## License
 MIT License – see LICENSE for details.
+
 
